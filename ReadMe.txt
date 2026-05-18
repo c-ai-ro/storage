@@ -10,3 +10,5 @@ if you're able to you can otherwise just open the github page at [no github page
 if a folder doesn't work I'm either still working on it, or have given up on it. 
 
 any folder previously abandoned isn't gaurenteed dead, or alive it may be subject to overhaul at any point I see fit.
+
+I don't plan on making this public, and if I do it'll likely be out of boredom. That being said my code will be gross, ugly, messy, and will have minimal comments for clarification. expecting more out of me is foolish, so don't.
