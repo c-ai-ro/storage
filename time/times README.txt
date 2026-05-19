@@ -1,1 +1,0 @@
-I made this with the intent to keep time, but I've given up for the time being due to the github codespaces not letting me access this folder. While, yes, I could just put these files into the repository without a folder that'd lead things to be disorganized, and Its just not worth it, honestly.
